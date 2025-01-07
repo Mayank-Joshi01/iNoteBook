@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/iNoteBook/static/css/main.b0d035fb.css",
-    "main.js": "/iNoteBook/static/js/main.64ebd9e5.js",
+    "main.css": "/iNoteBook/static/css/main.463cb1b3.css",
+    "main.js": "/iNoteBook/static/js/main.7891aa2d.js",
     "static/media/iron man 1.png": "/iNoteBook/static/media/iron man 1.90c99a4c81f4eae22f19.png",
     "index.html": "/iNoteBook/index.html",
-    "main.b0d035fb.css.map": "/iNoteBook/static/css/main.b0d035fb.css.map",
-    "main.64ebd9e5.js.map": "/iNoteBook/static/js/main.64ebd9e5.js.map"
+    "main.463cb1b3.css.map": "/iNoteBook/static/css/main.463cb1b3.css.map",
+    "main.7891aa2d.js.map": "/iNoteBook/static/js/main.7891aa2d.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0d035fb.css",
-    "static/js/main.64ebd9e5.js"
+    "static/css/main.463cb1b3.css",
+    "static/js/main.7891aa2d.js"
   ]
 }
